@@ -1,0 +1,18 @@
+{
+  "common": {
+    "abbreviations": "臺",
+    "cancel": "取消",
+    "confirm": "確認",
+    "delete": "刪除",
+    "edit": "編輯",
+    "home": "首頁",
+    "i18n": "多語言"
+  },
+  "home": {
+    "guest": "遊客",
+    "login": {
+      "in": "登入",
+      "out": "登出"
+    }
+  }
+}

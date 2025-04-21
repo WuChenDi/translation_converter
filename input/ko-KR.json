@@ -1,0 +1,18 @@
+{
+  "common": {
+    "i18n": "다국어",
+    "abbreviations": "Ko",
+    "home": "홈",
+    "edit": "편집",
+    "delete": "삭제",
+    "cancel": "취소",
+    "confirm": "확인"
+  },
+  "home": {
+    "guest": "게스트",
+    "login": {
+      "in": "로그인",
+      "out": "로그아웃"
+    }
+  }
+}

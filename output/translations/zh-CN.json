@@ -1,0 +1,18 @@
+{
+  "common": {
+    "abbreviations": "简",
+    "cancel": "取消",
+    "confirm": "确认",
+    "delete": "删除",
+    "edit": "编辑",
+    "home": "主页",
+    "i18n": "多语言"
+  },
+  "home": {
+    "guest": "游客",
+    "login": {
+      "in": "登录",
+      "out": "登出"
+    }
+  }
+}

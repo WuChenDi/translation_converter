@@ -1,0 +1,18 @@
+{
+  "common": {
+    "i18n": "多言語",
+    "abbreviations": "Ja",
+    "home": "ホーム",
+    "edit": "編集",
+    "delete": "削除",
+    "cancel": "キャンセル",
+    "confirm": "確認"
+  },
+  "home": {
+    "guest": "ゲスト",
+    "login": {
+      "in": "ログイン",
+      "out": "ログアウト"
+    }
+  }
+}

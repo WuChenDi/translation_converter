@@ -1,0 +1,18 @@
+{
+  "common": {
+    "i18n": "Multi Language",
+    "abbreviations": "En",
+    "home": "Home",
+    "edit": "Edit",
+    "delete": "Remove",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  },
+  "home": {
+    "guest": "Guest",
+    "login": {
+      "in": "log in",
+      "out": "log out"
+    }
+  }
+}
