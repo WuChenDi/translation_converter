@@ -39,7 +39,7 @@ translation_converter/
    - Output: `output/translations.xlsx`
 
 2. **Convert Excel to JSON**:
-   - Place the Excel file (`h5-translations.xlsx`) in the `input/` directory.
+   - Place the Excel file (`translations.xlsx`) in the `input/` directory.
    - Run:
      ```bash
      python scripts/excel_to_json.py
