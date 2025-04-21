@@ -14,7 +14,7 @@ translation_converter/
 │   ├── zh-TW.json
 │   ├── ko-KR.json
 │   ├── ja-JP.json
-│   └── h5-translations.xlsx    # Input Excel file
+│   └── translations.xlsx       # Input Excel file
 ├── output/
 │   ├── translations.xlsx       # Output Excel file
 │   └── translations/           # Output JSON files
